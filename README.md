@@ -96,14 +96,6 @@ python3 job_hunter.py
 
 ---
 
-## Built By
-
-Built by an SEO Analyst transitioning into Project Management — someone who was personally drowning in manual resume rewrites and decided to automate the problem away.
-
-This is a working personal tool, not a polished product. It is shared as a portfolio piece and starting point for others who want to build something similar.
-
----
-
 ## Roadmap
 
 - [ ] Web UI (Streamlit or Flask front end)
